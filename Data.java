@@ -224,7 +224,7 @@ public class Data{
 
 	try {
 		opcao = scan.nextInt();
-	
+		System.out.println();
 	switch (opcao) {
 		case 1:
 			for (int i = 0; i < Datas.length; i++) {
